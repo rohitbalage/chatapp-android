@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_projects/chatapp/app/src/main/res/layout/activity_forget.xml" value="0.25" />
         <entry key="..\:/Android_projects/chatapp/app/src/main/res/layout/activity_my_login.xml" value="0.25" />
         <entry key="..\:/Android_projects/chatapp/app/src/main/res/layout/activity_sign_up.xml" value="0.2556179775280899" />
       </map>
